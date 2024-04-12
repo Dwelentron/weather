@@ -1,0 +1,21 @@
+body{
+  background-image: linear-gradient(to right, #8b5cf6, #d946ef);
+}
+.one{
+  font-family: cursive;
+  font-weight: 700;
+  color: white;
+  font-size: 4rem;
+}
+.one1{
+  font-weight: 700;
+  color: white;
+  font-size: 4rem;
+}.four{
+  margin-left: 30%;
+}
+@media(max-width: 700px){
+  .four{
+    margin-left: 10px;
+  }
+}
